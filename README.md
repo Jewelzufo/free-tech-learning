@@ -1,5 +1,5 @@
 # free-tech-learning
-A collection of free Tech Courses with Credly Credentials
+A collection of free tech courses with Credly Credentials upon completion. 
 
 The main database can be found here: 
 
