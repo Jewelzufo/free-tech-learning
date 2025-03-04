@@ -1,10 +1,6 @@
 # FREE IBM Credentials
 The links below contain various courses provided by IBM.
 
-The main database can be found here: 
-
-Here is the URL formatted in GitHub Markdown:
-
 ## Getting Started Collection
 [Getting Started Collection](https://freeibmlearning.notion.site/Getting-Started-Collection-1ac3dd4caa4080f3b75ed74a0e04f058)
 
