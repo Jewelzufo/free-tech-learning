@@ -1,5 +1,5 @@
 # FREE IBM Courses with Credentials! ⭐️
-The links below contain various courses provided by IBM. Upon completion of each course, you will receive a credential provide by Credly for your accomplishments!
+![FREE IBM Courses with Credentials](https://github.com/Jewelzufo/free-tech-learning/blob/main/Ibm%20credly.png?raw=true)
 
 ## Getting Started Collection 🥇
 This collection aims to provide learners with foundational knowledge of Data, Cybersecurity, and Artificial Intelligence
