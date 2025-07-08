@@ -1,8 +1,15 @@
-# FREE IBM Courses with Credentials! ⭐️
+<div align="center"/>
+  <h1>FREE IBM Courses with Credentials</h1>
+</div>
 
 ---
+<div align="center"/>
+  <h2>Course & Credential Database</h2>
+</div>
 
-## Course & Credential Database 🪣
+
+<img src="https://freeibmlearning.notion.site/image/attachment%3Af43fcdc5-3ccc-44cd-8cf5-653a604e7532%3A1000053347.png?id=1883dd4c-aa40-80fc-a87b-000b13a3cb9d&table=collection&spaceId=df2d5173-7324-44b7-a414-a21048213f53&width=2000&userId=&cache=v2" alt="FreeCredDB Banner" height="300" width="1000"/>
+
 **Oveview:** A collection of all free IBM credentials available at this time. 
 
 >[Main Credential Database](https://freeibmlearning.notion.site/1883dd4caa4080d9b590eee183db52c1?v=1903dd4caa40802e99dd000c7073bb17)
@@ -19,7 +26,9 @@
 **Overview:**
 The IBM SkillsBuild program is a free, online learning platform offering training and resources to help people of all ages develop valuable new skills and find job opportunities, particularly in technology. 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGKaXcfRtQG_6rHqVokWuvsqX1hjWogVOBA&s" height="300" width="350"/>
+<div align="center"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGKaXcfRtQG_6rHqVokWuvsqX1hjWogVOBA&s" height="300" width="550"/>
+</div>
 
 **Benefits:**
 * **Free Online Learning Platform:** Access free online courses and resources.
@@ -43,7 +52,9 @@ The IBM SkillsBuild program is a free, online learning platform offering trainin
 
 **Overview:** *Your hub for all things community! Ask questions, connect with fellow members, get the support you need, and stay informed with the latest updates.*
 
-<img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/21b636d5-f4bf-4651-ad7e-6e516efcd3cc/UploadedImages/HLDS0824/Group_48098102.png" height="250" width="450"/>
+<div align="center"/>
+  <img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/21b636d5-f4bf-4651-ad7e-6e516efcd3cc/UploadedImages/HLDS0824/Group_48098102.png" alt="skillsbuild logo" height="250" width="650"/>
+</div>
 
 * **Connect with Experts:** Engage with IBM professionals and industry peers to share insights, ask questions, and expand your network.
 * **Access Exclusive Resources:** Get early access to technical articles, best practices, webinars, and hands-on tutorials.
@@ -62,7 +73,9 @@ The IBM SkillsBuild program is a free, online learning platform offering trainin
 
 *As a year-round program, you have the time and space to progress through the badging levels. To apply for the program, you need to complete an initial application, and then continue to report your activities to us on a regular basis. By adding activities, you can progress to higher badge levels, as you work towards the Champions nomination season.*
 
-<img src="https://www.ibm.com/community/wp-content/uploads/2025/04/Infographic-for-IBM-Rising-Champions.png" alt="IBM Rising Champions Infographic" height="500" width="700"/>
+<div align="center"/>
+  <img src="https://www.ibm.com/community/wp-content/uploads/2025/04/Infographic-for-IBM-Rising-Champions.png" alt="IBM Rising Champions Infographic" height="500" width="700"/>
+</div>
 
 **Benefits:**
 - **Graduated Badging System**
@@ -101,7 +114,9 @@ The IBM SkillsBuild program is a free, online learning platform offering trainin
 
 *The following badges can be earned for participation in the Rising Champions Advocacy Program*
 
-<img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/UploadedImages/dCCkTDtBRyuwYUV3wVLb_Screenshot%202023-12-21%20at%203.25.54%E2%80%AFPM-L.png" alt="Rising Champions Badges" heigh="500" width="700"/>
+<div align="center"/>
+  <img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/UploadedImages/dCCkTDtBRyuwYUV3wVLb_Screenshot%202023-12-21%20at%203.25.54%E2%80%AFPM-L.png" alt="Rising Champions Badges" heigh="500" width="700"/>
+</div>
 
 **How to Earn:**
 - **Contributor Badge**
